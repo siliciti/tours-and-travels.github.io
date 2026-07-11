@@ -1,0 +1,6 @@
+:HL["/_next/static/chunks/203afrelax3wg.css","style"]
+:HL["https://images.unsplash.com/photo-1609521263047-f8f205293f24?w=1200&q=80","image"]
+:HL["https://images.unsplash.com/photo-1436491865332-7a61a109cc05?w=600&q=80","image"]
+:HL["https://images.unsplash.com/photo-1560179707-f14e90ef3623?w=600&q=80","image"]
+:HL["https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=600&q=80","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"vehicles","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"toyota-innova-crysta","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"XsBM3gu6pQQ4o7i4V1hPa"}
