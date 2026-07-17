@@ -1,0 +1,9 @@
+/* TEAM */
+Chef: Vijay Krishna Papaiah
+Contact: vttb@siliciti.com
+
+/* SITE */
+Last update: 2026-07-17
+Standards: HTML5, CSS3, ESNext
+Components: Next.js 16, TypeScript, Tailwind CSS
+Software: Next.js App Router Static Export

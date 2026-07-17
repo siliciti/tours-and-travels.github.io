@@ -1,0 +1,77 @@
+# Tours and Travel Directory
+
+Welcome to the LLM agent and crawler information index for Tours and Travel. This document contains structured overview files, paths, and metadata about our service directory.
+
+Website URL: https://tours-and-travels.siliciti.com
+Industry: Travel Agency
+Location: Bangalore, Karnataka, India
+Contact: Phone: +919886267815 | Email: vttb@siliciti.com
+Hours: 24/7
+
+## Core Service Catalog
+- [Airport Taxi Service](https://tours-and-travels.siliciti.com/services/airport-taxi-service/): Reliable airport taxi service for Kempegowda International Airport (KIAL) pickups and drops. Guaranteed on-time arrival, flight tracking and 24/7 support.
+- [Local Taxi Service](https://tours-and-travels.siliciti.com/services/local-taxi-service/): Book hourly cab service in Bangalore for shopping, meetings, hospital visits and city travel. Packages from 4 hours to full-day hire with verified drivers.
+- [Outstation Taxi Service](https://tours-and-travels.siliciti.com/services/outstation-taxi-service/): Comfortable outstation cab service from Bangalore to Mysore, Coorg, Ooty, Chikmagalur and beyond. One-way and round-trip with driver bata included.
+- [Corporate Travel Service](https://tours-and-travels.siliciti.com/services/corporate-travel-service/): End-to-end corporate transportation for tech parks, client visits and employee commuting. Fleet of sedans, SUVs, Tempo Travellers and buses with monthly packages.
+- [Hotel Booking Service](https://tours-and-travels.siliciti.com/services/hotel-booking-service/): Book budget to luxury hotels across Karnataka and India with our travel desk assistance. Best-rate guarantee with curated property recommendations.
+- [Tour Package Booking](https://tours-and-travels.siliciti.com/services/tour-package-booking/): Customized holiday packages for families, groups and corporate travelers. Coorg, Ooty, Mysore, Chikmagalur, Kerala and Goa packages with transport, hotel and sightseeing.
+
+## Vehicle Fleet Specification
+- [Toyota Etios](https://tours-and-travels.siliciti.com/vehicles/toyota-etios/): Toyota Etios (4 seats, AC). Outstation: 13/km.
+- [Maruti Dzire](https://tours-and-travels.siliciti.com/vehicles/maruti-dzire/): Maruti Dzire (4 seats, AC). Outstation: 13/km.
+- [Honda Amaze](https://tours-and-travels.siliciti.com/vehicles/honda-amaze/): Honda Amaze (4 seats, AC). Outstation: 13/km.
+- [Toyota Rumion](https://tours-and-travels.siliciti.com/vehicles/toyota-rumion/): Toyota Rumion (6 seats, AC). Outstation: 15/km.
+- [Maruti Ertiga](https://tours-and-travels.siliciti.com/vehicles/maruti-ertiga/): Maruti Ertiga (7 seats, AC). Outstation: 15/km.
+- [Toyota Innova Crysta](https://tours-and-travels.siliciti.com/vehicles/toyota-innova-crysta/): Toyota Innova Crysta (7 seats, AC). Outstation: 18/km.
+- [Tempo Traveller 12 Seater](https://tours-and-travels.siliciti.com/vehicles/tempo-traveller-12-seater/): Force Tempo Traveller 12 (12 seats, AC). Outstation: 24/km.
+- [Tempo Traveller 17 Seater](https://tours-and-travels.siliciti.com/vehicles/tempo-traveller-17-seater/): Force Tempo Traveller 17 (17 seats, AC). Outstation: 26/km.
+- [Tempo Traveller 20 Seater](https://tours-and-travels.siliciti.com/vehicles/tempo-traveller-20-seater/): Force Tempo Traveller 20 (20 seats, AC). Outstation: 28/km.
+- [Mini Bus 21 Seater](https://tours-and-travels.siliciti.com/vehicles/mini-bus-21-seater/): Force Mini Bus 21 (21 seats, AC). Outstation: 30/km.
+- [Bus 35 Seater](https://tours-and-travels.siliciti.com/vehicles/bus-35-seater/): Ashok Leyland 35 Seater Bus (35 seats, AC). Outstation: 38/km.
+- [Bus 50 Seater](https://tours-and-travels.siliciti.com/vehicles/bus-50-seater/): Ashok Leyland 50 Seater Bus (50 seats, AC). Outstation: 45/km.
+
+## Popular Outstation Routes
+- [Bangalore to Mysore Taxi](https://tours-and-travels.siliciti.com/routes/bangalore-to-mysore/): 145km, approx. 3.5 hrs. Fares from ₹1740.
+- [Bangalore to Coorg Taxi](https://tours-and-travels.siliciti.com/routes/bangalore-to-coorg/): 265km, approx. 6 hrs. Fares from ₹3180.
+- [Bangalore to Chikmagalur Taxi](https://tours-and-travels.siliciti.com/routes/bangalore-to-chikmagalur/): 245km, approx. 5.5 hrs. Fares from ₹2940.
+- [Bangalore to Ooty Taxi](https://tours-and-travels.siliciti.com/routes/bangalore-to-ooty/): 270km, approx. 6.5 hrs. Fares from ₹3240.
+- [Bangalore to Kodaikanal Taxi](https://tours-and-travels.siliciti.com/routes/bangalore-to-kodaikanal/): 460km, approx. 9 hrs. Fares from ₹5520.
+- [Bangalore to Wayanad Taxi](https://tours-and-travels.siliciti.com/routes/bangalore-to-wayanad/): 280km, approx. 6 hrs. Fares from ₹3360.
+- [Bangalore to Hampi Taxi](https://tours-and-travels.siliciti.com/routes/bangalore-to-hampi/): 340km, approx. 7 hrs. Fares from ₹4080.
+- [Bangalore to Sakleshpur Taxi](https://tours-and-travels.siliciti.com/routes/bangalore-to-sakleshpur/): 220km, approx. 5 hrs. Fares from ₹2640.
+- [Bangalore to Yercaud Taxi](https://tours-and-travels.siliciti.com/routes/bangalore-to-yercaud/): 230km, approx. 5 hrs. Fares from ₹2760.
+- [Bangalore to Coonoor Taxi](https://tours-and-travels.siliciti.com/routes/bangalore-to-coonoor/): 300km, approx. 7 hrs. Fares from ₹3600.
+- [Bangalore to Tirupati Taxi](https://tours-and-travels.siliciti.com/routes/bangalore-to-tirupati/): 250km, approx. 5.5 hrs. Fares from ₹3000.
+- [Bangalore to Srikalahasti Taxi](https://tours-and-travels.siliciti.com/routes/bangalore-to-srikalahasti/): 280km, approx. 6 hrs. Fares from ₹3360.
+- [Bangalore to Kanipakam Taxi](https://tours-and-travels.siliciti.com/routes/bangalore-to-kanipakam/): 220km, approx. 5 hrs. Fares from ₹2640.
+- [Bangalore to Dharmasthala Taxi](https://tours-and-travels.siliciti.com/routes/bangalore-to-dharmasthala/): 300km, approx. 7 hrs. Fares from ₹3600.
+- [Bangalore to Kukke Subramanya Taxi](https://tours-and-travels.siliciti.com/routes/bangalore-to-kukke-subramanya/): 280km, approx. 6.5 hrs. Fares from ₹3360.
+
+## Neighborhood Locations Covered
+- [Kempegowda Airport](https://tours-and-travels.siliciti.com/locations/kempegowda-airport/): Local cabs and airport bookings in Kempegowda Airport.
+- [Whitefield](https://tours-and-travels.siliciti.com/locations/whitefield/): Local cabs and airport bookings in Whitefield.
+- [Marathahalli](https://tours-and-travels.siliciti.com/locations/marathahalli/): Local cabs and airport bookings in Marathahalli.
+- [Brookefield](https://tours-and-travels.siliciti.com/locations/brookefield/): Local cabs and airport bookings in Brookefield.
+- [Varthur](https://tours-and-travels.siliciti.com/locations/varthur/): Local cabs and airport bookings in Varthur.
+- [Bellandur](https://tours-and-travels.siliciti.com/locations/bellandur/): Local cabs and airport bookings in Bellandur.
+- [Sarjapur Road](https://tours-and-travels.siliciti.com/locations/sarjapur-road/): Local cabs and airport bookings in Sarjapur Road.
+- [Electronic City](https://tours-and-travels.siliciti.com/locations/electronic-city/): Local cabs and airport bookings in Electronic City.
+- [Hsr Layout](https://tours-and-travels.siliciti.com/locations/hsr-layout/): Local cabs and airport bookings in Hsr Layout.
+- [Koramangala](https://tours-and-travels.siliciti.com/locations/koramangala/): Local cabs and airport bookings in Koramangala.
+- [Indiranagar](https://tours-and-travels.siliciti.com/locations/indiranagar/): Local cabs and airport bookings in Indiranagar.
+- [Mg Road](https://tours-and-travels.siliciti.com/locations/mg-road/): Local cabs and airport bookings in Mg Road.
+- [Brigade Road](https://tours-and-travels.siliciti.com/locations/brigade-road/): Local cabs and airport bookings in Brigade Road.
+- [Richmond Road](https://tours-and-travels.siliciti.com/locations/richmond-road/): Local cabs and airport bookings in Richmond Road.
+- [Residency Road](https://tours-and-travels.siliciti.com/locations/residency-road/): Local cabs and airport bookings in Residency Road.
+
+## Travel Blog & Guides
+- [Complete Guide to Bangalore Airport Taxi Services](https://tours-and-travels.siliciti.com/blog/bangalore-airport-taxi-guide/): Learn how to book reliable airport taxi services in Bengaluru, pricing information, pickup tips and travel recommendations.
+- [Best Time to Book an Airport Taxi in Bengaluru](https://tours-and-travels.siliciti.com/blog/best-time-to-book-airport-taxi/): Discover the ideal time to book airport cabs and avoid last-minute surge pricing.
+- [Top Weekend Destinations from Bangalore](https://tours-and-travels.siliciti.com/blog/top-weekend-destinations-from-bangalore/): Explore Coorg, Ooty, Chikmagalur, Mysore and other popular weekend getaway destinations.
+- [Best Vehicles for Family Trips from Bengaluru](https://tours-and-travels.siliciti.com/blog/best-family-trip-vehicles/): Compare sedan, SUV, MUV and tempo traveller options for comfortable family travel.
+- [Corporate Cab Services for Bengaluru Companies](https://tours-and-travels.siliciti.com/blog/corporate-cab-services-guide/): Everything businesses need to know about corporate transportation and employee travel solutions.
+- [Why Corporate Cab Services Save Business Costs](https://tours-and-travels.siliciti.com/blog/why-corporate-cabs-save-money/): Learn how organized transportation helps companies reduce travel costs and improve employee productivity.
+- [Hotel Booking Tips Every Traveler Should Know](https://tours-and-travels.siliciti.com/blog/hotel-booking-tips-for-travelers/): Helpful hotel booking tips for business travelers, families and vacation planners.
+- [Resort vs Hotel: Which is Better for Your Trip](https://tours-and-travels.siliciti.com/blog/resort-vs-hotel-which-is-better/): Understand the differences between resorts and hotels before planning your next holiday.
+- [Bangalore to Mysore Road Trip Guide](https://tours-and-travels.siliciti.com/blog/bangalore-to-mysore-road-trip-guide/): Distance, routes, attractions and travel tips for a memorable Bengaluru to Mysore road trip.
+- [Why Tempo Traveller is Best for Group Travel](https://tours-and-travels.siliciti.com/blog/why-tempo-traveller-is-best-for-groups/): Learn why tempo travellers are the preferred choice for family trips, corporate outings and group tours.
