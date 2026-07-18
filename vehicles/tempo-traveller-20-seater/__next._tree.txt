@@ -2,4 +2,4 @@
 :HL["https://images.unsplash.com/photo-1464219789935-c2d9d9aba644?w=1200&q=80","image"]
 :HL["https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=600&q=80","image"]
 :HL["https://images.unsplash.com/photo-1560179707-f14e90ef3623?w=600&q=80","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"vehicles","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"tempo-traveller-20-seater","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"QwAp3E2U_dhTrYS81U9u_"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"vehicles","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"tempo-traveller-20-seater","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"9KxCOvqI1CPF06yfP_R_Q"}
