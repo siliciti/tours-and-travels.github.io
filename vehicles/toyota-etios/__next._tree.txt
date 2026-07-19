@@ -1,6 +1,6 @@
-:HL["/_next/static/chunks/2x5ot9u3ikz9a.css","style"]
+:HL["/_next/static/chunks/3ago7bu977g31.css","style"]
 :HL["https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=1200&q=80","image"]
 :HL["https://images.unsplash.com/photo-1436491865332-7a61a109cc05?w=600&q=80","image"]
 :HL["https://images.unsplash.com/photo-1449965408869-eaa3f722e40d?w=600&q=80","image"]
 :HL["https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=600&q=80","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"vehicles","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"toyota-etios","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"zOiHWu0UJo_jXxkmCmQmn"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"vehicles","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"toyota-etios","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"_df9Tgzyt3UW6EwacgvDg"}
