@@ -1,2 +1,2 @@
-:HL["/_next/static/chunks/1srdo3qwrlt9r.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"routes","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"bangalore-to-belgaum","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"9KxCOvqI1CPF06yfP_R_Q"}
+:HL["/_next/static/chunks/0aybr2olkl8--.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"routes","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"bangalore-to-belgaum","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"e1OxWPfZ3XsdBIy8AqBYB"}
