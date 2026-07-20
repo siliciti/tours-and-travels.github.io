@@ -1,2 +1,2 @@
-:HL["/_next/static/chunks/3ago7bu977g31.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"locations","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"sahakara-nagar","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"_df9Tgzyt3UW6EwacgvDg"}
+:HL["/_next/static/chunks/3kn-3fsmnar69.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"locations","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"sahakara-nagar","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"C9jh2RxvFRd1-UF7JIuok"}
