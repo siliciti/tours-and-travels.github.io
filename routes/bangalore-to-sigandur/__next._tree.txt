@@ -1,2 +1,2 @@
-:HL["/_next/static/chunks/338wwh04y5spp.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"routes","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"bangalore-to-sigandur","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"RA1h_5Qq12-Fo7ZAGZ3zX"}
+:HL["/_next/static/chunks/1re8ixlpav7lk.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"routes","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"bangalore-to-sigandur","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"c7NMORSwkD-W51gFqyFRR"}
