@@ -1,3 +1,3 @@
-:HL["/_next/static/chunks/1re8ixlpav7lk.css","style"]
+:HL["/_next/static/chunks/1ztz1a43p7uf3.css","style"]
 :HL["/images/blogs/best-family-trip-vehicles-thumb.webp","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"blog","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"best-family-trip-vehicles","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"c7NMORSwkD-W51gFqyFRR"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"blog","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"best-family-trip-vehicles","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"ZJNA4xAe4T1-YXIOmyEg6"}
