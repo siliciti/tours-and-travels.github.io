@@ -35,7 +35,7 @@
   "forms": {
     "quick-booking-form": true,
     "contact-us-form": true,
-    "popup-lead-form": false,
+    "popup-lead-form": true,
     "x-form": true,
     "y-form": true
   },
@@ -44,8 +44,8 @@
     "sound_enabled": true,
     "sound_url": "/audio/chime.mp3",
     "trigger": {
-      "scroll_percent": 40,
-      "delay_seconds": 1
+      "scroll_percent": 20,
+      "delay_seconds": 5
     }
   },
   "announcement": {
@@ -53,25 +53,36 @@
     "sound_enabled": true,
     "sound_url": "/audio/announcement.mp3",
     "trigger": {
-      "scroll_percent": 0,
+      "scroll_percent": 20,
       "delay_seconds": 5
     }
   },
   "popupForm": {
     "enabled": true,
     "mode": "modal",
+    "modalFormType": "contact",
     "form_id": "popup-lead-form",
     "title": "Need Quick Travel Assistance?",
     "description": "Get instant fare quotes, festival travel deals, and 24/7 dedicated cab bookings.",
+    "cta_text": "Get Instant Callback 🚀",
+    "badge_text": "⚡ Special Offer & Instant Quote",
+    "success_title": "Enquiry Submitted Successfully!",
+    "success_description": "Our travel support desk will reach out to you within 5 minutes.",
     "sound_enabled": true,
     "sound_url": "/audio/popup-chime.mp3",
     "trigger": {
-      "scroll_percent": 80,
-      "delay_seconds": 0
+      "scroll_percent": 20,
+      "delay_seconds": 5
     }
   },
   "audio": {
     "global_sound": true,
     "mute_button_position": "bottom-right"
+  },
+  "developer": {
+    "name": "Vijay Krishna",
+    "url": "https://www.facebook.com/vijaykrishnapapaiah",
+    "company": "SiliCiti",
+    "companyUrl": "https://siliciti.com"
   }
 }
