@@ -1,11 +1,11 @@
 {
   "modules": {
     "vehicles": true,
-    "services": true,
-    "routes": true,
-    "locations": true,
-    "blogs": true,
-    "media": true,
+    "services": false,
+    "routes": false,
+    "locations": false,
+    "blogs": false,
+    "media": false,
     "categories": true,
     "tags": true,
     "reviews": true,
@@ -23,7 +23,7 @@
     "popupform": true
   },
   "pages": {
-    "about-us": true,
+    "about-us": false,
     "contact-us": true,
     "privacy-policy": true,
     "terms-and-conditions": true,
@@ -35,12 +35,12 @@
   "forms": {
     "quick-booking-form": true,
     "contact-us-form": true,
-    "popup-lead-form": true,
+    "popup-lead-form": false,
     "x-form": true,
     "y-form": true
   },
   "chatbot": {
-    "enabled": true,
+    "enabled": false,
     "sound_enabled": true,
     "sound_url": "/audio/chime.mp3",
     "trigger": {
@@ -49,7 +49,7 @@
     }
   },
   "announcement": {
-    "enabled": true,
+    "enabled": false,
     "sound_enabled": true,
     "sound_url": "/audio/announcement.mp3",
     "trigger": {
@@ -58,7 +58,7 @@
     }
   },
   "popupForm": {
-    "enabled": true,
+    "enabled": false,
     "mode": "modal",
     "form_id": "popup-lead-form",
     "title": "Need Quick Travel Assistance?",
