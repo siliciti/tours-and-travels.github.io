@@ -55,7 +55,14 @@
     "trigger": {
       "scroll_percent": 20,
       "delay_seconds": 5
-    }
+    },
+    "heading": "",
+    "wishes": "",
+    "media_type": "image",
+    "image_url": "",
+    "video_url": "",
+    "start_date": "",
+    "end_date": ""
   },
   "popupForm": {
     "enabled": true,
