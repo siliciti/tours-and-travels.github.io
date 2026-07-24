@@ -1,11 +1,11 @@
 {
   "modules": {
     "vehicles": true,
-    "services": false,
-    "routes": false,
-    "locations": false,
-    "blogs": false,
-    "media": false,
+    "services": true,
+    "routes": true,
+    "locations": true,
+    "blogs": true,
+    "media": true,
     "categories": true,
     "tags": true,
     "reviews": true,
@@ -23,7 +23,7 @@
     "popupform": true
   },
   "pages": {
-    "about-us": false,
+    "about-us": true,
     "contact-us": true,
     "privacy-policy": true,
     "terms-and-conditions": true,
@@ -40,25 +40,25 @@
     "y-form": true
   },
   "chatbot": {
-    "enabled": false,
+    "enabled": true,
     "sound_enabled": true,
     "sound_url": "/audio/chime.mp3",
     "trigger": {
-      "scroll_percent": 20,
-      "delay_seconds": 5
+      "scroll_percent": 40,
+      "delay_seconds": 1
     }
   },
   "announcement": {
-    "enabled": false,
+    "enabled": true,
     "sound_enabled": true,
     "sound_url": "/audio/announcement.mp3",
     "trigger": {
-      "scroll_percent": 20,
+      "scroll_percent": 0,
       "delay_seconds": 5
     }
   },
   "popupForm": {
-    "enabled": false,
+    "enabled": true,
     "mode": "modal",
     "form_id": "popup-lead-form",
     "title": "Need Quick Travel Assistance?",
@@ -66,8 +66,8 @@
     "sound_enabled": true,
     "sound_url": "/audio/popup-chime.mp3",
     "trigger": {
-      "scroll_percent": 20,
-      "delay_seconds": 5
+      "scroll_percent": 80,
+      "delay_seconds": 0
     }
   },
   "audio": {
