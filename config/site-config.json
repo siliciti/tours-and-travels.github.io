@@ -1,0 +1,77 @@
+{
+  "modules": {
+    "vehicles": true,
+    "services": true,
+    "routes": true,
+    "locations": true,
+    "blogs": true,
+    "media": true,
+    "categories": true,
+    "tags": true,
+    "reviews": true,
+    "faqs": true,
+    "seo": true,
+    "analytics": true,
+    "performance": false,
+    "social": true,
+    "newsletter": false,
+    "authors": true,
+    "clients": true,
+    "leads": true,
+    "chatbot": true,
+    "announcement": true,
+    "popupform": true
+  },
+  "pages": {
+    "about-us": true,
+    "contact-us": true,
+    "privacy-policy": true,
+    "terms-and-conditions": true,
+    "cancellation-policy": true,
+    "airport-taxi": true,
+    "local-taxi": true,
+    "outstation-taxi": true
+  },
+  "forms": {
+    "quick-booking-form": true,
+    "contact-us-form": true,
+    "popup-lead-form": true,
+    "x-form": true,
+    "y-form": true
+  },
+  "chatbot": {
+    "enabled": true,
+    "sound_enabled": true,
+    "sound_url": "/audio/chime.mp3",
+    "trigger": {
+      "scroll_percent": 20,
+      "delay_seconds": 5
+    }
+  },
+  "announcement": {
+    "enabled": true,
+    "sound_enabled": true,
+    "sound_url": "/audio/announcement.mp3",
+    "trigger": {
+      "scroll_percent": 20,
+      "delay_seconds": 5
+    }
+  },
+  "popupForm": {
+    "enabled": true,
+    "mode": "modal",
+    "form_id": "popup-lead-form",
+    "title": "Need Quick Travel Assistance?",
+    "description": "Get instant fare quotes, festival travel deals, and 24/7 dedicated cab bookings.",
+    "sound_enabled": true,
+    "sound_url": "/audio/popup-chime.mp3",
+    "trigger": {
+      "scroll_percent": 20,
+      "delay_seconds": 5
+    }
+  },
+  "audio": {
+    "global_sound": true,
+    "mute_button_position": "bottom-right"
+  }
+}

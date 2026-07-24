@@ -1,0 +1,43 @@
+{
+  "name": "Tours and Travel",
+  "short_name": "Tour Travel",
+  "description": "Taxi services, airport transfers, outstation trips and travel solutions.",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#ffffff",
+  "theme_color": "#2563eb",
+  "scope": "/",
+  "icons": [
+    {
+      "src": "/images/branding/logo.webp",
+      "sizes": "192x192",
+      "type": "image/webp",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/images/branding/logo.webp",
+      "sizes": "512x512",
+      "type": "image/webp",
+      "purpose": "any maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Book a Taxi",
+      "short_name": "Book Cab",
+      "url": "/vehicles",
+      "icon": "/images/branding/favicon.ico"
+    },
+    {
+      "name": "Call Desk",
+      "short_name": "Call",
+      "url": "tel:+919886267815"
+    },
+    {
+      "name": "WhatsApp Desk",
+      "short_name": "WhatsApp",
+      "url": "https://wa.me/919886267815"
+    }
+  ]
+}
