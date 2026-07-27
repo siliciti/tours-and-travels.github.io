@@ -1,2 +1,4 @@
-:HL["/_next/static/chunks/3uvx_srpmb7xu.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"routes","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"bangalore-to-kochi","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"8XwGz4mCRWaABqnuoF_LP"}
+:HL["/_next/static/chunks/23utt9uszq545.css","style"]
+:HL["/_next/static/media/1b99372b3eaef0c8-s.p.1gsd1jahc5dg_.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/83afe278b6a6bb3c-s.p.2bn3s6zvc0dyp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"routes","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"bangalore-to-kochi","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"lnlpWiVLt6phENw4ZEccT"}

@@ -19,7 +19,7 @@
     "clients": true,
     "leads": true,
     "chatbot": true,
-    "announcement": true,
+    "announcement": false,
     "popupform": true
   },
   "pages": {
@@ -35,26 +35,25 @@
   "forms": {
     "quick-booking-form": true,
     "contact-us-form": true,
-    "popup-lead-form": true,
-    "x-form": true,
-    "y-form": true
+    "popup-lead-form": true
   },
   "chatbot": {
     "enabled": true,
     "sound_enabled": true,
     "sound_url": "/audio/chime.mp3",
+    "inactivity_hide_seconds": 10,
     "trigger": {
       "scroll_percent": 20,
       "delay_seconds": 5
     }
   },
   "announcement": {
-    "enabled": true,
+    "enabled": false,
     "sound_enabled": true,
     "sound_url": "/audio/announcement.mp3",
     "trigger": {
-      "scroll_percent": 20,
-      "delay_seconds": 5
+      "scroll_percent": 0,
+      "delay_seconds": 2
     },
     "heading": "",
     "wishes": "",
