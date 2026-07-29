@@ -1,6 +1,6 @@
 {
   "name": "Tours and Travel",
-  "short_name": "Tour Travel",
+  "short_name": "Tours and Travel",
   "description": "Taxi services, airport transfers, outstation trips and travel solutions.",
   "start_url": "/",
   "display": "standalone",

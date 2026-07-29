@@ -19,7 +19,7 @@
     "clients": true,
     "leads": true,
     "chatbot": true,
-    "announcement": false,
+    "announcement": true,
     "popupform": true
   },
   "pages": {
@@ -48,12 +48,12 @@
     }
   },
   "announcement": {
-    "enabled": false,
-    "sound_enabled": true,
+    "enabled": true,
+    "sound_enabled": false,
     "sound_url": "/audio/announcement.mp3",
     "trigger": {
       "scroll_percent": 0,
-      "delay_seconds": 2
+      "delay_seconds": 0
     },
     "heading": "",
     "wishes": "",
